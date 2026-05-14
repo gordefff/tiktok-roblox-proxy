@@ -12,7 +12,7 @@ app.use(express.json());
 // STATE
 // ============================================
 
-let TIKTOK_USERNAME = "febrydpx";
+let TIKTOK_USERNAME = "dewii.fashionn";
 let chatMessages = [];
 let giftQueue = [];
 const MAX_MESSAGES = 100;
